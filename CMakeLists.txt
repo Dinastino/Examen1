@@ -10,4 +10,6 @@ add_executable(Examen1
         README.md
         Ejercicios/ejercicio2.cpp
         Ejercicios/Ejercicio3.cpp
+        Ejercicios/Ejerciocio4.cpp
+        Ejercicios/Ejercicios5-8.cpp
 )
