@@ -24,4 +24,4 @@ Proyectos:
 
 2.Ejercicio2:
 
-    -
+    -Programa que escribe el nombre edad y curso de un estudiante con una clase llamada estudiante.
