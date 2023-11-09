@@ -1,0 +1,3 @@
+C:/Users/carlo/Documents/GitHub/Examen1/cmake-build-debug/CMakeFiles/Examen1.dir
+C:/Users/carlo/Documents/GitHub/Examen1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/carlo/Documents/GitHub/Examen1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
