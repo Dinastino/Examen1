@@ -16,4 +16,12 @@ Preguntas de opcion multiple:
       
     -"B)Variables que almacenan la direccion de otra variable".
 
-Proyectos
+Proyectos:
+
+1-ejercicio1:
+    
+    -Un simmple programa para sumar dos numeros
+
+2.Ejercicio2:
+
+    -
