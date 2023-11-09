@@ -6,5 +6,8 @@ set(CMAKE_CXX_STANDARD 14)
 add_executable(Examen1
         .idea/.gitignore
         .idea/workspace.xml
-        main.cpp
-        README.md)
+        Ejercicios/main.cpp
+        README.md
+        Ejercicios/ejercicio2.cpp
+        Ejercicios/Ejercicio3.cpp
+)

@@ -1,5 +1,9 @@
 # ninja log v5
-0	518	7212295323426086	CMakeFiles/Examen1.dir/main.cpp.obj	a46b9658cf680808
-522	832	7212295326394704	Examen1.exe	4c78c6c040d64a16
 7	706	7212295656017934	CMakeFiles/Examen1.dir/main.cpp.obj	a46b9658cf680808
-707	871	7212295657601290	Examen1.exe	4c78c6c040d64a16
+1	331	7212316872202485	build.ninja	8a2a3a72498854bd
+3	207	7212307305698603	Examen1.exe	4fef24de04f1efdc
+1	546	7212305917475653	CMakeFiles/Examen1.dir/Ejercicios/main.cpp.obj	f628e8537b31fa9e
+12	590	7212305917901314	CMakeFiles/Examen1.dir/Ejercicios/Estudiantes.cpp.obj	19ba35f4c5c44f50
+4	474	7212313758782078	CMakeFiles/Examen1.dir/Ejercicios/ejercicio2.cpp.obj	938a44d7997e5dfd
+4	132	7212316933648675	CMakeFiles/Examen1.dir/Ejercicios/Ejercicio3.cpp.obj	6014f9a822eff08c
+15	517	7212316937510761	CMakeFiles/Examen1.dir/Ejercicios/ejercicio2.cpp.obj	938a44d7997e5dfd
