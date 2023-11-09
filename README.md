@@ -28,4 +28,29 @@ Proyectos:
 
 3.Ejercicio3:
 
-    -
+    -Un ejercicio de punteros que los utiliza para intercambiar el valor de dos variables.
+
+4.Ejercicio4:
+
+    -Ejercicio que utiliza funciones "throw", "try" y "catch" para realizar excepciones cuano una division
+    intenta dividir entre cero.
+
+5.Ejercicios5-8:
+
+    -Programa como base el ejercicio dos pero ampliado añadiendo notas y asignaturas/materias ademas mas mas clases.
+
+Preguntas de estension:
+pergunta1:
+
+    1:La programación orientada a objetos difiere de la programación estructurada tradicional dado que en la tradicional
+    los datos y procedimientos entan separados y sin relacion.
+    2:
+
+Pregunta2:
+
+    -1:Es uun tipo de programacion en la que el sistema busca un tratamiento de esa excepcion.
+     2:Que el programa peta.
+
+Pregunta3:
+
+    -1:
